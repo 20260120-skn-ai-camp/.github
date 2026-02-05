@@ -12,3 +12,21 @@
 -->
 
 ![](https://cdn.imweb.me/upload/S20240314bd10436a7991a/41a9769cc44e6.png)
+
+### [01_프로그래밍 기초 주간](https://github.com/orgs/20260120-skn-ai-camp/projects/1)
+```mermaid
+graph TD
+    A[01_프로그래밍 기초 주간]
+    A1[Python]
+    A2[MySQL]
+    A3[Data Collection]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/1" "프로그래밍 기초"
+    click A1 "https://github.com/20260120-skn-ai-camp/01_python_workspace" "프로그래밍 기초 - Python"
+    click A2 "https://github.com/20260120-skn-ai-camp/02_mysql_workspace" "프로그래밍 기초 - MySQL"
+    click A3 "https://github.com/20260120-skn-ai-camp/03_data_collection_workspace" "프로그래밍 기초 - Data Collection"
+
+```
