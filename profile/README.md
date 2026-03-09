@@ -34,7 +34,7 @@ graph TD
 ### [02_AI 기초 주간](https://github.com/orgs/20260120-skn-ai-camp/projects/2)
 ```mermaid
 graph TD
-    A[01_프로그래밍 기초 주간]
+    A[02_AI 기초 주간]
     A1[Data Analysis]
     A2[Machine Learning]
     A3[Deep Learning Basic]
@@ -42,7 +42,7 @@ graph TD
     A --> A2
     A --> A3
 
-    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/1" "AI 기초"
+    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/2" "AI 기초"
     click A1 "https://github.com/20260120-skn-ai-camp/04_data_analysis_workspace" "AI 기초 - Data Analysis"
     click A2 "https://github.com/20260120-skn-ai-camp/05_machine_learning_workspace" "AI 기초 - Machine Learning"
     click A3 "https://github.com/20260120-skn-ai-camp/06_deep_learning_basic_workspace" "AI 기초 - Deep Learning Basic"
