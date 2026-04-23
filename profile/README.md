@@ -60,7 +60,7 @@ graph TD
     A --> A2
     A --> A3
 
-    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/4" AI 자연어처리"
+    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/4" "AI 자연어처리"
     click A1 "https://github.com/20260120-skn-ai-camp/07_deep_learning_nlp_workspace" "AI 자연어처리 - Deep Learning NLP"
     click A2 "https://github.com/20260120-skn-ai-camp/08_llm_workspace" "AI 자연어처리 - LLM"
     click A3 "https://github.com/20260120-skn-ai-camp/09_deep_learning_multimodal_workspace" "AI 자연어처리 - Deep Learning Multimodal"
