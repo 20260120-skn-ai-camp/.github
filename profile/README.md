@@ -66,3 +66,21 @@ graph TD
     click A3 "https://github.com/20260120-skn-ai-camp/09_deep_learning_multimodal_workspace" "AI 자연어처리 - Deep Learning Multimodal"
 
 ```
+
+### [04_웹서비스 주간](https://github.com/orgs/20260120-skn-ai-camp/projects/5)
+```mermaid
+graph TD
+    A[04_웹서비스 주간]
+    A1[Web Client]
+    A2[Web Server]
+    A3[Devops]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/20260120-skn-ai-camp/projects/5" "웹서비스"
+    click A1 "https://github.com/20260120-skn-ai-camp/10_web_client_workspace" "웹서비스 - Web Client"
+    click A2 "https://github.com/20260120-skn-ai-camp/11_web_server_workspace" "웹서비스 - Web Server"
+    click A3 "https://github.com/20260120-skn-ai-camp/12_devops_workspace" "웹서비스 - Devops"
+
+```
